@@ -1,4 +1,4 @@
-# Prototype Chaching Proxy API
+# Prototype Caching Proxy API
 
 This project implements a prototype for a caching proxy api. The results of api requests are cached for a specific time period based on a key generated from the request.
 
